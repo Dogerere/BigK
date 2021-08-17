@@ -1,0 +1,28 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Ice Cold",
+    "effectName": "Ice Cold",
+    "icon": "ddh4smq-9cd9354c-e1e9-4073-b581-d95180b9d0c3.png",
+    "color": {
+      "value": -6684673,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "IceColdPotionStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "IceColdPotionStartedapplied"
+    },
+    "onExpired": {
+      "name": "IceColdPotionStartedapplied"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "Gda",
+    "textureStill": "hfd",
+    "textureFlowing": "hfd",
+    "luminosity": 10,
+    "density": 2000,
+    "viscosity": 20,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:IceAge"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Ice"
+    ],
+    "restrictionBiomes": [],
+    "onEntityCollides": {
+      "name": "IckleBulletHitsBlock"
+    }
+  }
+}

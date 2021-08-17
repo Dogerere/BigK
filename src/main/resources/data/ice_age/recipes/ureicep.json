@@ -1,0 +1,42 @@
+{
+  "group": "ice_age",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ice"
+    },
+    "1": {
+      "item": "minecraft:ice"
+    },
+    "2": {
+      "item": "minecraft:ice"
+    },
+    "3": {
+      "item": "ice_age:blizzard_shard"
+    },
+    "4": {
+      "item": "ice_age:blizard_core"
+    },
+    "5": {
+      "item": "ice_age:blizzard_shard"
+    },
+    "6": {
+      "item": "minecraft:ice"
+    },
+    "7": {
+      "item": "minecraft:ice"
+    },
+    "8": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "ice_age:pure_ice",
+    "count": 5
+  }
+}

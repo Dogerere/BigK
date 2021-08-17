@@ -1,0 +1,248 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "IceColdPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_cold_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IceCold",
+      "type": "potion",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_cold"
+    },
+    {
+      "name": "PureIceItemInHandTick",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pure_ice_item_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PureIce",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pure_ice"
+    },
+    {
+      "name": "IceAge",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_age"
+    },
+    {
+      "name": "BlizardCore",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blizard_core"
+    },
+    {
+      "name": "IckleBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ickle_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ickle",
+      "type": "gun",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ickle"
+    },
+    {
+      "name": "IckleWhileBulletFlyingTick",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ickle_while_bullet_flying_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlizzardShard",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blizzard_shard"
+    },
+    {
+      "name": "IceRod",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_rod"
+    },
+    {
+      "name": "Rod",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rod"
+    },
+    {
+      "name": "Core",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "core"
+    },
+    {
+      "name": "Ureicep",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ureicep"
+    },
+    {
+      "name": "BladeoftheLastSnow",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bladeofthe_last_snow"
+    },
+    {
+      "name": "Gda",
+      "type": "fluid",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gda"
+    },
+    {
+      "name": "Ice",
+      "type": "dimension",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice",
+      "metadata": {
+        "ep": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "fluid.gda": "Gda",
+      "item.ice_age.gda_bucket": "Gda Bucket",
+      "item.ice_age.blizzard_shard": "Blizzard Shard",
+      "item.ice_age.ice_rod": "Ice Rod",
+      "item.ice_age.bladeofthe_last_snow": "Bladeofthe Last Snow",
+      "item.minecraft.lingering_potion.effect.ice_cold": "Lingering Ice Cold",
+      "effect.ice_cold": "Ice Cold",
+      "item.ice_age.blizard_core": "Blizzard Core",
+      "item.ice_age.ice": "Ice Portal Igniter",
+      "item.ice_age.ickle": "Ickle",
+      "item.ice_age.pure_ice": "Pure Ice",
+      "itemGroup.tabice_age": "Ice Age",
+      "item.minecraft.potion.effect.ice_cold": "Ice Cold",
+      "item.minecraft.splash_potion.effect.ice_cold": "Splash Ice Cold",
+      "item.minecraft.tipped_arrow.effect.ice_cold": "Arrow of Ice Cold"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ice_age",
+    "modName": "Ice Age",
+    "version": "1.0.0",
+    "author": "karol, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.iceage",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ice_age:block/ice_portal_ew"
+    },
+    "axis=x": {
+      "model": "ice_age:block/ice_portal_ns"
+    }
+  }
+}

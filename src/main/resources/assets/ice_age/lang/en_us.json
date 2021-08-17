@@ -1,0 +1,17 @@
+{
+  "fluid.gda": "Gda",
+  "item.ice_age.gda_bucket": "Gda Bucket",
+  "item.ice_age.blizzard_shard": "Blizzard Shard",
+  "item.ice_age.ice_rod": "Ice Rod",
+  "item.ice_age.bladeofthe_last_snow": "Bladeofthe Last Snow",
+  "item.minecraft.lingering_potion.effect.ice_cold": "Lingering Ice Cold",
+  "effect.ice_cold": "Ice Cold",
+  "item.ice_age.blizard_core": "Blizzard Core",
+  "item.ice_age.ice": "Ice Portal Igniter",
+  "item.ice_age.ickle": "Ickle",
+  "item.ice_age.pure_ice": "Pure Ice",
+  "itemGroup.tabice_age": "Ice Age",
+  "item.minecraft.potion.effect.ice_cold": "Ice Cold",
+  "item.minecraft.splash_potion.effect.ice_cold": "Splash Ice Cold",
+  "item.minecraft.tipped_arrow.effect.ice_cold": "Arrow of Ice Cold"
+}

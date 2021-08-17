@@ -1,0 +1,52 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "warped_forest"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "ocean"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.ICE"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Gda"
+    },
+    "airColor": {
+      "value": -6684673,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "DENY",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.BLUE_ICE"
+    },
+    "portalParticles": {
+      "value": "SNOW_SHOVEL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": ""
+    },
+    "igniterName": "Ice Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:IceAge"
+    },
+    "texture": "core",
+    "portalTexture": "hfd",
+    "enablePortal": true
+  }
+}

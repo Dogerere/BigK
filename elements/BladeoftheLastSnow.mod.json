@@ -1,0 +1,32 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ga",
+    "customModelName": "Normal",
+    "name": "Bladeofthe Last Snow",
+    "specialInfo": [
+      "A blade that can kill everything"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:IceAge"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 3.0,
+    "enchantability": 30,
+    "damageVsEntity": 14.0,
+    "usageCount": 100001,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "IckleBulletHitsBlock"
+    }
+  }
+}
